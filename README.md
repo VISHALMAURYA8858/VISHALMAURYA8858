@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👨‍💻I am a final year computer science and engineering student.<br>🏙Seeking a challenging position in an organization that can provide me with an opportunity to improve my skills<br>and strengths in conjunction with the organization’s goals, to attain excellence through experience, and to use my<br>analytical and technical skills to contribute to the growth of the organization.<br>💻Shoot me an Email or add me on LinkedIn :)
+👨‍💻I am a final year computer science and engineering student.<br>🏙Seeking a challenging position in an organization that can provide me with an opportunity to improve my skills and strengths in conjunction with the organization's goals and growth.<br>💻Shoot me an Email or add me on LinkedIn :)
 
 
 ## 🌐 Socials:
